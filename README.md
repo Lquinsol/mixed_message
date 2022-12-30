@@ -14,11 +14,14 @@ No aditional package, framework required is Just Vanilla JavaScript.
 * Download both module files extention .mjs and add to your project.
 * Copy the code and add it in your on JavaScript file.
 
-###Technologies: No used in this project
+###Technologies: 
+No used in this project
 
-###Collaborators: No collaborators. 
+###Collaborators:
+No collaborators. 
 
-###License: No license. 
+###License: 
+No license. 
 
 
 
