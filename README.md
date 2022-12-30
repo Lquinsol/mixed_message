@@ -1,26 +1,26 @@
-#Title: "Mixed Message"
+# Title: "Mixed Message"
 
-##Description:
+## Description:
 We create a random quote generator to motivate users on base the user's mood, which also provides a reference to keep them focused following the quote's author. Before loading the program, we ask them about their mood, and we offer a clever distraction to keep them sharp once the program load.
 
-###Features:
+### Features:
 We split the task in two parts.
 1. The Data Storage
 2. The Construction Messsage Function
 
 
-###How to use:
+### How to use:
 No aditional package, framework required is Just Vanilla JavaScript. 
 * Download both module files extention .mjs and add to your project.
 * Copy the code and add it in your on JavaScript file.
 
-###Technologies: 
+### Technologies: 
 No used in this project
 
-###Collaborators:
+### Collaborators:
 No collaborators. 
 
-###License: 
+### License: 
 No license. 
 
 
