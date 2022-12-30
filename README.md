@@ -4,7 +4,7 @@
 We create a random quote generator to motivate users on base the user's mood, which also provides a reference to keep them focused following the quote's author. Before loading the program, we ask them about their mood, and we offer a clever distraction to keep them sharp once the program load.
 
 ### Features:
-We split the task in two parts.
+The task is split in two parts.
 1. The Data Storage
 2. The Construction Messsage Function
 
